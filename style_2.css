@@ -1,0 +1,29 @@
+body {
+    background-color: #a5eba3;
+}
+
+.letter_2{
+    position: absolute;
+    background-color: #f9c5c8;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 70%;
+    top: 10%;
+    left: 30%;
+    border-radius: 6px;
+    box-shadow: 0 2px 26px rgba(0, 0, 0, 0.12);
+  }
+
+.container{
+    margin: 20px;
+}
+.container img {
+    position: relative;
+    max-width: 50%; 
+    max-height: 100%; 
+    /* height: auto;  */
+    display: block; 
+    margin: 20px auto; 
+    border-radius: 2%;
+  }
